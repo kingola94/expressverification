@@ -1,20 +1,19 @@
 {
-    "name": "expressverification",
-    "version": "1.0.0",
-    "description": "",
-    "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
-        "test": "echo \"No test specified\" && exit 1",
-        "start": "index.html"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/kingola94/expressverification.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/kingola94/expressverification/issues"
-    },
-    "homepage": "https://github.com/kingola94/expressverification#readme"
+  "name": "wells",
+  "version": "1.0.0",
+  "description": "Just a test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingola94/expressverification.git"
+  },
+  "author": "wells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingola94/expressverification/issues"
+  },
+  "homepage": "https://github.com/kingola94/expressverification#readme"
 }
